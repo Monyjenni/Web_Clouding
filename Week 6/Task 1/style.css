@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0; /* Remove default body margin */
+  background-color: orange; /* Set yellow background for the entire screen */
+}
+
+.container {
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 50px; 
+}
+
+input {
+  font-size: 25px;
+}
+
+h1 {
+  color: grey; 
+}
+
+button {
+  margin-top: 10px; 
+  font-size: 18px;
+}
+
+label {
+  margin-top: 10px; 
+}
+
+#output {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+}
