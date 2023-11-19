@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 0; /* Remove default body margin */
-  background-color: orange; /* Set yellow background for the entire screen */
+  background: linear-gradient(to right, #ff8c00, #ffcc00); /* Set yellow background for the entire screen */
 }
 
 .container {
