@@ -1,0 +1,10 @@
+The reason why our team can't reach the aligned scopes because:
+
+- We have (me and my another teammate) been working on our final project for a higher diploma in software development at another school to graduate in last december 2023.
+- I'm simultaneously completing 2 Udemy certifications required for my diploma, so i mostly rushed to finish that one.
+- Our team decided to switch from Vue 2 to Vue 3 for the project.
+- While I'm familiar with Vue 2 but i had to switch to Vue 3,and also one of my teammates, who is more proficient in React.js, needed time to digest and learn Vue 3 too.
+- We started to work  on the project only in the last three weeks before the group presentation.
+- The delay in our project timeline is more related to our personal challenges.
+- I'm actively working to support my teammate in learning Vue 3 and catching up on the missed scopes.
+- Personally, it's only about time constraint and we wish to do it well without any distractions in next semester.
