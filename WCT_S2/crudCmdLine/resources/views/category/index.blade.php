@@ -1,0 +1,1 @@
+<h1>index view for Category</h1>
